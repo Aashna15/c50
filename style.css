@@ -1,0 +1,31 @@
+
+            h1 {
+                color: brown;
+            }
+
+            /* {
+                border: solid;
+            }*/
+
+            .header{
+                background-color: aqua;
+                display:flex;
+                justify-content:space-between;
+            }
+            .grid{
+                display:flex;
+                justify-content:space-evenly;
+                flex-wrap:wrap;
+            }
+            .content{
+                display:flex;
+                justify-content: space-between;
+                background-color: beige;
+                text-align: center;
+            }
+            .footer{
+                display:flex;
+                justify-content: flex-end;
+                flex-wrap: wrap;
+            }
+      
